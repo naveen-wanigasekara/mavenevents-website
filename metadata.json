@@ -1,0 +1,8 @@
+{
+  "name": "Maven Events - Premier Australian Event Planning",
+  "description": "A high-end, AI-powered event planning website for Maven Events, specializing in bespoke Australian weddings, corporate galas, and private celebrations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
