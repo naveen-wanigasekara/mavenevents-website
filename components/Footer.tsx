@@ -26,6 +26,12 @@ const Footer: React.FC = () => {
               >
                 <i className="fa-brands fa-facebook text-lg"></i>
               </a>
+              <a
+                href="https://www.tiktok.com/@mavenevents2023?is_from_webapp=1&sender_device=pc"
+                className="w-10 h-10 border border-slate-800 flex items-center justify-center rounded-full hover:bg-[#EBD5A4] hover:text-slate-900 transition-all"
+              >
+                <i className="fa-brands fa-tiktok text-lg"></i>
+              </a>
             </div>
           </div>
 
