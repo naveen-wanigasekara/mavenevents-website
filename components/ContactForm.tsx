@@ -38,7 +38,7 @@ const ContactForm: React.FC = () => {
 
     // Simulate a brief loading state before opening mail client
     setTimeout(() => {
-      window.location.href = `mailto:mavenevents@email.com?subject=${subject}&body=${body}`; // Replace with actual email
+      window.location.href = `mailto:mavenevents23@hotmail.com?subject=${subject}&body=${body}`; // Replace with actual email
       setIsSubmitting(false);
       setIsSubmitted(true);
     }, 1200);
@@ -66,7 +66,7 @@ const ContactForm: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-sm">Call Us</h4>
-                  <p className="text-slate-400 text-sm">+61 2 9000 0000</p>
+                  <p className="text-slate-400 text-sm">+61 468 613 994</p>
                 </div>
               </div>
               <div className="flex items-start">
@@ -76,7 +76,7 @@ const ContactForm: React.FC = () => {
                 <div>
                   <h4 className="font-bold text-sm">WhatsApp</h4>
                   <a
-                    href="https://wa.me/61290000000"
+                    href="https://wa.me/+61468613994"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-slate-400 text-sm hover:text-maven-gold transition-colors underline underline-offset-4 decoration-white/10"
@@ -92,7 +92,7 @@ const ContactForm: React.FC = () => {
                 <div>
                   <h4 className="font-bold text-sm">Email Us</h4>
                   <p className="text-slate-400 text-sm break-all">
-                    hello@mavenevents.com.au
+                    mavenevents23@hotmail.com
                   </p>
                 </div>
               </div>
@@ -103,7 +103,7 @@ const ContactForm: React.FC = () => {
                 <div>
                   <h4 className="font-bold text-sm">Visit Studio</h4>
                   <p className="text-slate-400 text-sm">
-                    Level 4, 100 George St, Sydney
+                    3/9 Bettina Street Clayton, 3168, Victoria, Melbourne
                   </p>
                 </div>
               </div>

@@ -15,22 +15,16 @@ const Footer: React.FC = () => {
             </p>
             <div className="flex space-x-4 mt-8">
               <a
-                href="#"
+                href="https://www.instagram.com/mavenevents.au?igsh=MWkzOG42bmR4bmlsag%3D%3D&utm_source=qr"
                 className="w-10 h-10 border border-slate-800 flex items-center justify-center rounded-full hover:bg-[#EBD5A4] hover:text-slate-900 transition-all"
               >
                 <i className="fa-brands fa-instagram text-lg"></i>
               </a>
               <a
-                href="#"
+                href="https://www.facebook.com/share/1L1Jz4v3Wd/?mibextid=wwXIfr"
                 className="w-10 h-10 border border-slate-800 flex items-center justify-center rounded-full hover:bg-[#EBD5A4] hover:text-slate-900 transition-all"
               >
-                <i className="fa-brands fa-pinterest text-lg"></i>
-              </a>
-              <a
-                href="#"
-                className="w-10 h-10 border border-slate-800 flex items-center justify-center rounded-full hover:bg-[#EBD5A4] hover:text-slate-900 transition-all"
-              >
-                <i className="fa-brands fa-linkedin-in text-lg"></i>
+                <i className="fa-brands fa-facebook text-lg"></i>
               </a>
             </div>
           </div>
