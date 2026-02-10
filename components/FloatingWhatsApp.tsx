@@ -1,9 +1,17 @@
 import React from "react";
 
 const FloatingWhatsApp: React.FC = () => {
+  const openWhatsApp = () => {
+    const text = `Hi Maven Events! I’d like to inquire about your event planning and management services. Could you please share more details? Thank you!`;
+    window.open(
+      `https://wa.me/+61468613994?text=${encodeURIComponent(text)}`,
+      "_blank",
+    );
+  };
+
   return (
     <a
-      href="https://wa.me/+61468613994"
+      onClick={openWhatsApp}
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-[60] group"

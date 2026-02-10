@@ -44,6 +44,14 @@ const ContactForm: React.FC = () => {
     }, 1200);
   };
 
+  const openWhatsApp = () => {
+    const text = `Hi Maven Events! I’d like to inquire about your event planning and management services. Could you please share more details? Thank you!`;
+    window.open(
+      `https://wa.me/+61468613994?text=${encodeURIComponent(text)}`,
+      "_blank",
+    );
+  };
+
   return (
     <section id="contact" className="py-24 bg-slate-900 text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -76,7 +84,7 @@ const ContactForm: React.FC = () => {
                 <div>
                   <h4 className="font-bold text-sm">WhatsApp</h4>
                   <a
-                    href="https://wa.me/+61468613994"
+                    onClick={openWhatsApp}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-slate-400 text-sm hover:text-maven-gold transition-colors underline underline-offset-4 decoration-white/10"
