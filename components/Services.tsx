@@ -5,37 +5,37 @@ const services = [
     title: "Bespoke Weddings",
     desc: "Transforming your love story into a breathtaking reality, across Australia’s most iconic backdrops.",
     icon: "fa-heart",
-    img: "components/public/leonardo-miranda-dvF6s1H1x68-unsplash.jpg",
+    img: "/leonardo-miranda-dvF6s1H1x68-unsplash.jpg",
   },
   {
     title: "Corporate Galas",
     desc: "Sophisticated event production that mirrors your brand’s excellence and fosters meaningful connections.",
     icon: "fa-building",
-    img: "components/public/al-elmes-ULHxWq8reao-unsplash.jpg",
+    img: "/al-elmes-ULHxWq8reao-unsplash.jpg",
   },
   {
     title: "Baby Showers",
     desc: "Celebrating new beginnings with beautifully styled gatherings, thoughtfully designed to welcome your little one in the most heartfelt way.",
     icon: "fa-baby",
-    img: "components/public/kelly-sikkema-IE8KfewAp-w-unsplash.jpg",
+    img: "/kelly-sikkema-IE8KfewAp-w-unsplash.jpg",
   },
   {
     title: "Bridal Parties",
     desc: "An unforgettable celebration dedicated to the bride-to-be, bringing together her closest circle for a day of elegance, laughter, and cherished memories.",
     icon: "fa-ring",
-    img: "components/public/sujan-khalifa-LO1lToLGGFA-unsplash.jpg",
+    img: "/sujan-khalifa-LO1lToLGGFA-unsplash.jpg",
   },
   {
     title: "Birthday Parties",
     desc: "From intimate milestone celebrations to grand soirées, we craft personalized birthday experiences that reflect your unique style and spirit.",
     icon: "fa-cake-candles",
-    img: "components/public/edvinas-ivanovas-mQ6q-1XAj6A-unsplash.jpg",
+    img: "/edvinas-ivanovas-mQ6q-1XAj6A-unsplash.jpg",
   },
   {
     title: "Anniversary Celebrations",
     desc: "Honoring your journey together with a beautifully curated event that reflects your love, milestones, and shared memories.",
     icon: "fa-champagne-glasses",
-    img: "components/public/laurent-yasiel-ZdenpJd5zF4-unsplash.jpg",
+    img: "/laurent-yasiel-ZdenpJd5zF4-unsplash.jpg",
   },
 ];
 
