@@ -5,19 +5,37 @@ const services = [
     title: "Bespoke Weddings",
     desc: "Transforming your love story into a breathtaking reality, across Australia’s most iconic backdrops.",
     icon: "fa-heart",
-    img: "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&q=80&w=800",
+    img: "components/public/leonardo-miranda-dvF6s1H1x68-unsplash.jpg",
   },
   {
     title: "Corporate Galas",
     desc: "Sophisticated event production that mirrors your brand’s excellence and fosters meaningful connections.",
     icon: "fa-building",
-    img: "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&q=80&w=800",
+    img: "components/public/al-elmes-ULHxWq8reao-unsplash.jpg",
   },
   {
-    title: "Private Soirées",
-    desc: "Intimate celebrations meticulously designed to leave a lasting impression on your closest circle.",
+    title: "Baby Showers",
+    desc: "Celebrating new beginnings with beautifully styled gatherings, thoughtfully designed to welcome your little one in the most heartfelt way.",
+    icon: "fa-baby",
+    img: "components/public/kelly-sikkema-IE8KfewAp-w-unsplash.jpg",
+  },
+  {
+    title: "Bridal Parties",
+    desc: "An unforgettable celebration dedicated to the bride-to-be, bringing together her closest circle for a day of elegance, laughter, and cherished memories.",
+    icon: "fa-ring",
+    img: "components/public/sujan-khalifa-LO1lToLGGFA-unsplash.jpg",
+  },
+  {
+    title: "Birthday Parties",
+    desc: "From intimate milestone celebrations to grand soirées, we craft personalized birthday experiences that reflect your unique style and spirit.",
+    icon: "fa-cake-candles",
+    img: "components/public/edvinas-ivanovas-mQ6q-1XAj6A-unsplash.jpg",
+  },
+  {
+    title: "Anniversary Celebrations",
+    desc: "Honoring your journey together with a beautifully curated event that reflects your love, milestones, and shared memories.",
     icon: "fa-champagne-glasses",
-    img: "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&q=80&w=800",
+    img: "components/public/laurent-yasiel-ZdenpJd5zF4-unsplash.jpg",
   },
 ];
 

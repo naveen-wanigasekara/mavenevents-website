@@ -62,7 +62,7 @@ const ContactForm: React.FC = () => {
               <span className="text-maven-gold">Maven Events</span>
             </h2>
             <p className="text-slate-400 mb-10 text-lg">
-              Whether you’re planning a grand wedding in Sydney or an intimate
+              Whether you’re planning a grand wedding in Melbourne or an intimate
               corporate retreat in the Whitsundays, our team is ready to bring
               your vision to life.
             </p>
@@ -180,6 +180,10 @@ const ContactForm: React.FC = () => {
                     <option>Wedding Inquiry</option>
                     <option>Corporate Event</option>
                     <option>Private Soirée</option>
+                    <option>Baby Shower</option>
+                    <option>Bridal Party</option>
+                    <option>Birthday Party</option>
+                    <option>Anniversary Party</option>
                     <option>Other</option>
                   </select>
                   <textarea

@@ -13,7 +13,7 @@ const App: React.FC = () => {
       <Header />
       <main>
         <Hero />
-
+{/*
         <section className="py-12 md:py-16 bg-white overflow-hidden">
           <div className="max-w-7xl mx-auto px-4 text-center">
             <p className="text-slate-400 text-[10px] font-bold uppercase tracking-[0.5em] mb-8 md:mb-12">
@@ -35,6 +35,7 @@ const App: React.FC = () => {
             </div>
           </div>
         </section>
+*/}
 
         <Services />
 
@@ -60,7 +61,7 @@ const App: React.FC = () => {
                 />
                 <div className="absolute inset-0 bg-black/30 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
                   <span className="text-white border border-white px-6 py-2 uppercase tracking-widest text-[10px] md:text-sm">
-                    Sydney Harbour Gala
+                    Melbourne Harbour Gala
                   </span>
                 </div>
               </div>

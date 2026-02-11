@@ -25,7 +25,7 @@ const Hero: React.FC = () => {
             Moments
           </h1>
           <p className="text-base sm:text-lg md:text-xl text-white/80 mb-8 md:mb-12 font-light leading-relaxed max-w-2xl">
-            From iconic Sydney galas to romantic Yarra Valley weddings, we
+            From iconic Melbourne galas to romantic Yarra Valley weddings, we
             transform your most ambitious visions into breathtaking realities.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 md:gap-5">

@@ -8,7 +8,7 @@ const AIPlanner: React.FC = () => {
   const [concept, setConcept] = useState<EventIdea | null>(null);
   const [formData, setFormData] = useState({
     type: EventType.WEDDING,
-    city: "Sydney",
+    city: "Melbourne",
     guests: 100,
     vibe: "Modern Elegant",
   });
